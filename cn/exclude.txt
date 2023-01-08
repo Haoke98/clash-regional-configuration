@@ -6,3 +6,4 @@ api.royalapps.com,
 *.csdn.net,
 *.126.net,*.music.126.net,*.push.126.net,*.163.com,*.dun.163.com,*.music.163.com,netease.com,*.127.net,
 *.weibo.com
+gitee.com,*.gitee.com
